@@ -1,5 +1,5 @@
 # world-happiness
-<h1>Data Vizualization of World Happiness Scores</h1>
+<h2>Data Vizualization of World Happiness Scores</h2>
 
 Data : 
 Happiness rank and scores by country 2016<br>
