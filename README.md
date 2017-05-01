@@ -1,12 +1,12 @@
 # world-happiness
 
-Data : Happiness rank and scores by country 2016
-Data Source : https://www.kaggle.com/unsdsn/world-happiness 
+Data : Happiness rank and scores by country 2016<br>
+Data Source : https://www.kaggle.com/unsdsn/world-happiness <br>
 
-Question : 
-What are the major factors of hapiness scores? How happiness scores related to the geographical regions of the countries?
+Question : <br>
+What are the major factors of hapiness scores? How happiness scores related to the geographical regions of the countries?<br>
 
-Data Viz:
+Data Viz:<br>
 Figure 1 : Correlation matrix between happiness scores and its contributors
 <img src="https://github.com/sukilau/world-happiness/blob/master/graph1.png?raw=true">
 
